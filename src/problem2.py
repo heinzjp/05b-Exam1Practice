@@ -200,7 +200,6 @@ def problem2b(rect, n, delta, win):
     #    TIME ESTIMATE:   15 to 25 minutes.
     # -------------------------------------------------------------------------
 
-    center = rect.get_center()
     left_corner = rect.get_upper_left_corner()
     right_corner = rect.get_lower_right_corner()
 
